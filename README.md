@@ -2,7 +2,7 @@
 
 Developed using:
 1) React Hooks.
-2) Typescripts.
+2) Typescript.
 3) Restful API.
 
 The restful api used is a public link from 
